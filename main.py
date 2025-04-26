@@ -1,1 +1,2 @@
-print("Hello GitHub!")
+phrase = 'Hello GitHub!'
+print(phrase)
